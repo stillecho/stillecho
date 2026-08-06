@@ -56,10 +56,6 @@ Full-stack developer building websites, backend systems, APIs, and open-source p
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=poulet&show_icons=true&theme=transparent&hide_border=true" alt="Poulet's GitHub stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stillecho&show_icons=true)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poulet&layout=compact&theme=transparent&hide_border=true" alt="Poulet's most used languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stillecho&layout=compact)
