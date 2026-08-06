@@ -53,9 +53,3 @@ Full-stack developer building websites, backend systems, APIs, and open-source p
 * Creating reusable developer tools
 * Learning more about backend architecture
 * Building modern and responsive websites
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stillecho&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stillecho&layout=compact)
